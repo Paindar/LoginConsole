@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/bg"/>
+    <qresource prefix="/icon">
+        <file>exeIcon.png</file>
+    </qresource>
+</RCC>
